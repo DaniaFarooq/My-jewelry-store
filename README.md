@@ -29,7 +29,6 @@ Here are the snipshots of my project that give an overall preview:
 ![Homepage Snipshot](/myjewelry/screenshots/Myjewelryhomepage.PNG)
 ![Login Snipshot](/myjewelry/screenshots/Myjeweelrylogin.PNG)
 
-
 ---
 
 ## 📝 Notes
