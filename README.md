@@ -21,18 +21,12 @@ This is my **first project**, designed to practice website layout and navigation
 
 ---
 
-## 🌐 Live Demo
-👉 [Click here to view the project](https://your-username.github.io/myjewelry/)  
+## 📸 Preview
+Here are the snipshots of my project that give an overall preview:  
 
-*(replace `your-username` with your GitHub username once Pages is enabled)*
+![Homepage Snipshot](![Uploading Myjewelryhomepage.PNG…])
 
----
-
-## 📸 Screenshots
-You can add screenshots of your project here later:  
-
-![Homepage Screenshot](screenshots/homepage.png)  
-![Dashboard Screenshot](screenshots/dashboard.png)  
+![Dashboard Snipshot]  
 
 ---
 
