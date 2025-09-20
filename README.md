@@ -24,9 +24,11 @@ This is my **first project**, designed to practice website layout and navigation
 ## 📸 Preview
 Here are the snipshots of my project that give an overall preview:  
 
-![Homepage Snipshot](![Uploading Myjewelryhomepage.PNG…])
+![Dashboard Snipshot](/myjewelry/screenshots/Myjewelrydashboard.PNG)
+![POS Snipshot](/myjewelry/screenshots/Myjewelrypos.PNG)
+![Homepage Snipshot](/myjewelry/screenshots/Myjewelryhomepage.PNG)
+![Login Snipshot](/myjewelry/screenshots/Myjeweelrylogin.PNG)
 
-![Dashboard Snipshot]  
 
 ---
 
