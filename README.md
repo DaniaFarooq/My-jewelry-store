@@ -6,7 +6,7 @@ This is my **first project**, designed to practice website layout and navigation
 ---
 
 ## 📌 Features
-- 🔑 Login & Signup pages  
+- 🔑 Login & Signup pages 
 - 📦 Inventory management page (UI only)  
 - 💳 POS (Point of Sale) page  
 - 👥 Role selection page  
